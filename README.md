@@ -48,4 +48,14 @@
       <h1>Happy birthday my love</h1>
       <div class="sub">A special surprise for <strong style="color:var(--accent)">Sir Jii</strong></div>
     </header>
+<div class="sub">A special surprise for <strong style="color:var(--accent)">Sir Jii</strong></div>
+    </header>
+<div class="sub">A special surprise for <strong style="color:var(--accent)">Sir Jii</strong></div>
+    </header>
 
+    <div class="card">
+      <div class="typing" id="typingArea"><span id="typeText"></span><span class="cursor"></span></div>
+
+      <div class="image-row">
+        <figure class="photo">
+          <img src="data:image/jpeg;base64,/9j/
